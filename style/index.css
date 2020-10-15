@@ -73,7 +73,7 @@ table {
 @media only screen and (max-width: 1000px)
 {
      main {
-     justify-content: space-evenly;
+     justify-content: center;
      flex-flow: column wrap;	
 }
    .column1 {
