@@ -62,10 +62,8 @@ table {
      max-height: 100%;
 }
    .column2 {
-    position: absolute;
      width: 100%;
      max-height: auto;
-     margin-top: 20000px;
 }
    .flex-container {
      flex-flow: row wrap;
