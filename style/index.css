@@ -55,7 +55,8 @@ table {
      flex-flow: column wrap;	
 }
    .column1 {
-     width: 95%;
+     max-width: 95%;
+     flex-flow: row wrap;
      height: auto;
      margin: 0 auto;
 }
@@ -72,12 +73,11 @@ table {
 
 @media only screen and (max-width: 1000px)
 {
-	  main {
-     
+     main {
      flex-flow: column wrap;	
 }
    .column1 {
-     max-width: 65%;
+     max-width: 95%;
      display: flex;
      flex-direction: row wrap;
      margin: 0 auto;
