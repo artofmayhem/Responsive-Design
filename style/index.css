@@ -59,7 +59,7 @@ table {
      max-width: 95%;
      flex-flow: row wrap;
      height: auto;
-     margin: 0 auto;
+     margin: 1000px auto;
 }
    .column2 {
      width: 100%;
