@@ -115,7 +115,6 @@ main {
 
 .column1 {
  width: 60%;
- min-width: 40%;
  max-height: 40em;
  display: flex;
  flex-flow: column wrap;
