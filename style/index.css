@@ -86,10 +86,9 @@ table {
      margin: 0 auto;
 }
    .column2 {
-   
+     margin-left: 0;
      width: 100%;
      max-height: 100%;
-  
 }
 }
 body {
