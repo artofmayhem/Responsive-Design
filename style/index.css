@@ -136,6 +136,7 @@ body {
   padding-bottom: 50px;
   margin-top: 20px;
   margin-bottom: 20px;
+  margin-left: 20px;
 }
 
 /* element items */
@@ -181,6 +182,7 @@ section {
 
 main {
   width: 100%;
+  justify-content: space-around;	
   display: flex;
   flex-flow: row wrap;
 }
