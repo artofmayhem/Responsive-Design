@@ -136,7 +136,7 @@ main {
 }
 
 .column2 {
-  width: 35%;
+  width: auto;
   border: 0px solid white;
   background: #333;
   font-size: 26px;
