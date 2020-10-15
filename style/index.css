@@ -52,6 +52,7 @@ table {
 @media only screen and (max-width: 800px)
 {
    main {
+     justify-content: space-between;
      flex-flow: column wrap;	
 }
    .column1 {
@@ -75,6 +76,7 @@ table {
 @media only screen and (max-width: 1000px)
 {
      main {
+     justify-content: space-between;
      flex-flow: row wrap;	
 }
    .column1 {
@@ -85,6 +87,7 @@ table {
      margin: 0 auto;
 }
    .column2 {
+     position: absolute;
      width: 90%;
      height: auto;
      margin: 0 auto;
