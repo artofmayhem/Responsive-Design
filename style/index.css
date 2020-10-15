@@ -60,10 +60,12 @@ table {
      max-height: auto;
      flex-flow: column wrap;  
 }
+	
    .column2 {
      width: 100%;
      max-height: auto;
 }
+	
    .flex-container {
      flex-flow: row wrap;
 	}
@@ -75,11 +77,18 @@ table {
      justify-content: center;
      flex-flow: column wrap;	
 }
+	
+   .column1 {
+     flex-flow: column wrap;
+}
+	
    .column2 {
      width: 100%;
      max-height: auto;
 }
 }
+
+
 body {
   font-family: 'Quattrocento Sans', sans-serif;
 }
@@ -116,9 +125,8 @@ main {
 .column1 {
  width: 50em;
  max-width: 75%;
- max-height: 40em;
+ max-height: 80em;
  display: flex;
- flex-flow: column wrap;
  margin-top: 20px;
 }
 
