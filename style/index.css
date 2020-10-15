@@ -86,7 +86,6 @@ table {
      margin: 0 auto;
 }
    .column2 {
-     margin-left: 0;
      width: 100%;
      max-height: 100%;
 }
@@ -135,7 +134,8 @@ body {
   padding-bottom: 50px;
   margin-top: 20px;
   margin-bottom: 20px;
-  margin-left: 20px;
+  margin-left: 10px;
+  margin-right: 10px
 }
 
 /* element items */
