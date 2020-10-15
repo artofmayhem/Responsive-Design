@@ -131,7 +131,7 @@ main {
 }
 
 .column2 {
-  min-width: 40%;
+  width: 40%;
   max-width: 100%;
   border: 0px solid white;
   background: #333;
