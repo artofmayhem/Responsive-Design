@@ -61,6 +61,7 @@ table {
      margin: 0 auto;
 }
    .column2 {
+     position: absolute;
      width: 90%;
      min-width: 95%;
      height: auto;
