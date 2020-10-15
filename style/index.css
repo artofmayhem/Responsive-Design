@@ -53,7 +53,7 @@ table {
 {
    main {
      justify-content: space-between;
-     flex-flow: column wrap;	
+     flex-flow: row wrap;	
 }
    .column1 {
      max-width: 95%;
