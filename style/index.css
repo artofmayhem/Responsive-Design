@@ -118,7 +118,7 @@ body {
 
 main {
   width: 100%;
-  max-height: auto;
+  max-height: 350em;
   justify-content: space-around;	
   display: flex;
   flex-flow: row wrap;
@@ -126,7 +126,7 @@ main {
 
 .column1 {
  max-width: 57%;
- max-height: 600px;
+ max-height: 600em;
  margin-top: 10px;
  display: flex;
 }
