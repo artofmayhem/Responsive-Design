@@ -53,6 +53,7 @@ table {
 {
    main {
      justify-content: space-between;
+     align-content: space-between;
      flex-flow: column wrap;	
 }
    .column1 {
