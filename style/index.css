@@ -76,7 +76,7 @@ table {
 {
      main {
      justify-content: space-between;
-     flex-flow: row wrap;	
+     flex-flow: column wrap;	
 }
    .column1 {
      width: 90%;
