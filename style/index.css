@@ -119,7 +119,7 @@ main {
   max-height: 100em;
   justify-content: space-evenly;	
   display: flex;
-  flex-flow: row wrap;
+  flex-flow: column wrap;
 }
 
 .column1 {
