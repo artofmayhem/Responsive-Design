@@ -128,10 +128,11 @@ main {
 
 .column1 {
  max-width: 57%;
- max-height: 25em;
+ max-height: 40em;
  margin-top: 10px;
  display: flex;
  flex-flow column wrap;
+ margin-top: 10px;
 }
 
 .column2 {
