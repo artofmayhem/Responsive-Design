@@ -63,10 +63,9 @@ table {
 }
    .column2 {
      position: absolute;
-     width: 90%;
-     min-width: 95%;
+     width: 100%;
      height: auto;
-     margin-top: 400px;
+     margin-top: 1200px;
 }
    .flex-container {
      flex-flow: row wrap;
@@ -81,16 +80,15 @@ table {
 }
    .column1 {
      width: 90%;
-     max-height: 50%;
+     max-height: 60%;
      display: flex;
      flex-direction: row wrap;
      margin: 0 auto;
 }
    .column2 {
-     position: absolute;
-     width: 90%;
+     width: 100%;
      height: auto;
-     margin: 0 auto;
+     margin: 1200px;
 }
 }
 body {
