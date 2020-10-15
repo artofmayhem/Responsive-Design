@@ -79,15 +79,16 @@ table {
      flex-flow: column wrap;	
 }
    .column1 {
-     width: 90%;
+     width: 75%;
      max-height: 60%;
      display: flex;
      flex-direction: row wrap;
      margin: 0 auto;
 }
    .column2 {
-     width: 100%;
+     max-width: 100%;
      max-height: 100%;
+     width: 100%;
 }
 }
 body {
@@ -115,15 +116,23 @@ body {
   justify-content: center;
 }
 
+main {
+  width: 100%;
+  max-height: auto;
+  justify-content: space-around;	
+  display: flex;
+  flex-flow: row wrap;
+}
+
 .column1 {
- width: 57%;
+ max-width: 57%;
  max-height: 600px;
  margin-top: 10px;
  display: flex;
 }
 
 .column2 {
-  min-width: 35%;
+  max-width: 35%;
   border: 0px solid white;
   background: #333;
   font-size: 26px;
@@ -177,14 +186,6 @@ header {
 section {
   display: flex;
   justify-content: center;
-}
-
-main {
-  width: 100%;
-  max-height: auto;
-  justify-content: space-around;	
-  display: flex;
-  flex-flow: row wrap;
 }
 
 footer {
